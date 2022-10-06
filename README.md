@@ -1,4 +1,4 @@
-# NAMCHS-Public-Use-Data-Munging
+# NCHS-Public-Use-Data-Munging
 
 Pulling and processing into crunchable form public use files (PUFs) from data systems across NCHS, specifically:
 * National Ambulatory Medical Care Survey (NAMCS)
